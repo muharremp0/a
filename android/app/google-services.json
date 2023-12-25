@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "424480583554",
+    "project_id": "timatch-8f41b",
+    "storage_bucket": "timatch-8f41b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424480583554:android:5a5ad669183289be3ca99b",
+        "android_client_info": {
+          "package_name": "com.abc.timatchx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "424480583554-79l7faefi26ulb96tje09op8pfl7m1u8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvC5_2UCV3CVBZ3EAxJolB903MpGkpl_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "424480583554-79l7faefi26ulb96tje09op8pfl7m1u8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "424480583554-d7f269magul5nbp6j1cb7b18gu549ej1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.timatchx"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424480583554:android:52f5dcd3c70afaef3ca99b",
+        "android_client_info": {
+          "package_name": "com.xyz.timatchx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "424480583554-nh9mp9hsmf3mqch29siq4hv3i5c5qhk3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.xyz.timatchx",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "424480583554-79l7faefi26ulb96tje09op8pfl7m1u8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvC5_2UCV3CVBZ3EAxJolB903MpGkpl_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "424480583554-79l7faefi26ulb96tje09op8pfl7m1u8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "424480583554-d7f269magul5nbp6j1cb7b18gu549ej1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.timatchx"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
